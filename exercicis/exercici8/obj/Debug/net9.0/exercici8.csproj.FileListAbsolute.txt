@@ -1,0 +1,15 @@
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\obj\Debug\net9.0\exercici8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\obj\Debug\net9.0\exercici8.AssemblyInfoInputs.cache
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\obj\Debug\net9.0\exercici8.AssemblyInfo.cs
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\obj\Debug\net9.0\exercici8.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\obj\Debug\net9.0\exercici8.sourcelink.json
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\bin\Debug\net9.0\exercici8.exe
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\bin\Debug\net9.0\exercici8.deps.json
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\bin\Debug\net9.0\exercici8.runtimeconfig.json
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\bin\Debug\net9.0\exercici8.dll
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\bin\Debug\net9.0\exercici8.pdb
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\obj\Debug\net9.0\exercici8.dll
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\obj\Debug\net9.0\refint\exercici8.dll
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\obj\Debug\net9.0\exercici8.pdb
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\obj\Debug\net9.0\exercici8.genruntimeconfig.cache
+C:\Users\arnau\Desktop\1r DAW\PROGRAMACIO\TEMA1\EX1\1-Programes-basics\exercicis\exercici8\obj\Debug\net9.0\ref\exercici8.dll

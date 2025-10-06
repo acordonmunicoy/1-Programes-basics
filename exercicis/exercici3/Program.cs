@@ -6,6 +6,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Com es diu el producte?");
+        var nomProducte = Console.ReadLine();
+        Console.WriteLine("Quin és el preu del producte?");
+        var prudproducte = Console.ReadLine();
+        Console.WriteLine("Esta en stoc?");
+        var stoc = Console.ReadLine();
+
+        Console.WriteLine($"El producte es diu {nomProducte}, el seu preu és de {prudproducte} i {stoc} esta en stoc.");
     }
 }

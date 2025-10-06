@@ -6,6 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string nom = "programacio";
+        Console.WriteLine("la paraula programacio te "+ nom.Length + " lletres");
     }
 }

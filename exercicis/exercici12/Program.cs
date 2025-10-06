@@ -27,6 +27,20 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Digam el primer numero");
+        var primer = Console.ReadLine();
+        int primerint = Convert.ToInt32(primer);
+
+        Console.WriteLine("Digam el segon numero");
+        var segon = Console.ReadLine();
+        int segonint = Convert.ToInt32(segon);
+
+        Console.WriteLine($"Primer número {primerint}");
+        Console.WriteLine($"Segon número {segonint}");
+        Console.WriteLine($"La suma de {primer} i {segon} es {primerint + segonint}");
+        Console.WriteLine($"La resta de {primer} i {segon} es {primerint - segonint}");
+        Console.WriteLine($"La multiplicacio de {primer} i {segon} es {primerint * segonint}");
+        Console.WriteLine($"La divisio de {primer} i {segon} es {primerint / segonint}");
+
     }
 }

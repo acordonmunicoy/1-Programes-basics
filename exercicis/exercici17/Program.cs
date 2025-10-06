@@ -15,6 +15,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string numerom = "23.45";
+        string stringnumerom = numerom.Substring(2);
+
+        Console.WriteLine("el numero final és --> " + "0" + stringnumerom);
+        
     }
 }

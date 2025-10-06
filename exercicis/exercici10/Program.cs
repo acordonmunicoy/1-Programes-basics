@@ -8,6 +8,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Com et dius?");
+        var nom = Console.ReadLine();
+
+        Console.WriteLine("Quin any vas neixre?");
+        var any = Console.ReadLine();
+
+        Console.WriteLine($"La teva contrasenya serà : {nom}{any}");
     }
 }

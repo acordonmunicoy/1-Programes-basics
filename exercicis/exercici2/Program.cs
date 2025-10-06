@@ -8,6 +8,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Carrer:");
+        var carrer = Console.ReadLine();
+        Console.WriteLine("Numero:");
+        var Numero = Console.ReadLine();
+        Console.WriteLine("CodiPostal:");
+        var CodiPostal = Console.ReadLine();
+        Console.WriteLine("Població:");
+        var Poblacio = Console.ReadLine();
+
+        Console.WriteLine($"{carrer}, {Numero}, {CodiPostal}, {Poblacio}");
     }
 }

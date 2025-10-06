@@ -16,6 +16,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Quina nota de practiques has tret?");
+        var notespractiques = Console.ReadLine();
+        int notapt = Convert.ToInt32(notespractiques);
+        Console.WriteLine("Quina nota has tret a l'examen?");
+        var notesexamens = Console.ReadLine();
+        int notaexm = Convert.ToInt32(notesexamens);
+        double resultat = notapt * 0.3 + notaexm * 0.7;
+        double resultatexm = Math.Truncate(resultat);
+        Console.WriteLine("La teva nota final és: " + (notapt * 0.3 + notaexm * 0.7) + " o sigui " + resultatexm);
     }
 }

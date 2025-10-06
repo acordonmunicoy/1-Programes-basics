@@ -12,6 +12,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Quin numero vols, de tres xifres, invertir?");
+        var numero = Console.ReadLine();
+        string numero1 = numero.Substring(0, 1);
+        string numero2 = numero.Substring(1,1);
+        string numero3 = numero.Substring(2);
+        Console.WriteLine("El numero invertit és "+(numero3)+ (numero2) +(numero1));
     }
 }

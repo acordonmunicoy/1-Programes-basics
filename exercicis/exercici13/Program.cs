@@ -17,6 +17,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Quina data sense format vols convertir?");
+        var Data = Console.ReadLine();
+
+        string DataString = (Data);
+        Console.WriteLine(DataString.Substring(0, 2) + "/" + DataString.Substring(2, 2) + "/" + DataString.Substring(4, 4));
     }
+        //Console.WriteLine(Data.Length);
+        //Console.WriteLine(DataString[0] + DataString[1] + "/" + DataString[2] + DataString[3] + "/" + DataString[4] + DataString[5] + DataString[6] + DataString[7]);
+        // data.Length
+        // Console.WriteLine(paraula.Length);
+        //Console.WriteLine($"numero de lletres" + [Data.Length]);  + DataString[7] + DataString[8]
+    
 }

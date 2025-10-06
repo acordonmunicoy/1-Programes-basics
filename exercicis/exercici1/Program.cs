@@ -1,4 +1,6 @@
-﻿namespace exercici1;
+﻿using Microsoft.VisualBasic;
+
+namespace exercici1;
 
 /* Escriviu un programa que demani el nom i el cognom de l’usuari i que el presenti com en James Bond
 
@@ -18,6 +20,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Entra el nom:");
+        var Nom = Console.ReadLine();
+        Console.WriteLine("Entra el cognom:");
+        var Cognom = Console.ReadLine();
+
+        Console.WriteLine($"Em dic {Cognom}, {Nom} {Cognom}");
+
     }
 }

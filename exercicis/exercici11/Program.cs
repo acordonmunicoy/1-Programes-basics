@@ -5,6 +5,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Com et dius?");
+        var nom = Console.ReadLine();
+
+        var domini = "cendrassos.net";
+
+        Console.WriteLine($"{nom}@{domini}");
     }
 }

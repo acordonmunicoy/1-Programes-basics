@@ -10,7 +10,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Quants euros vols canviar?");
+        var euros = Console.ReadLine();
+        int eurosint = Convert.ToInt32(euros);
+
+        Console.WriteLine($"Tens { eurosint * 166386 } pessetes");
         
     }
 }

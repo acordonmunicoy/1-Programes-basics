@@ -6,6 +6,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Digam el teu nom");
+        var nom = Console.ReadLine();
+        Console.WriteLine("Digam el teu cognomm");
+        var cognom = Console.ReadLine();
+
+        var inicialnom = nom.Substring(0, 1).ToUpper() + nom.Substring(1).ToLower();
+        var inicialcognom = cognom.Substring(0, 1).ToUpper() + cognom.Substring(1).ToLower();
+        Console.WriteLine($"El teu nom es {inicialnom} {inicialcognom}");
     }
+
 }
